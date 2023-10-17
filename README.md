@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 Atualmente estou em busca de um emprego como desenvolvedor front-end.
 - 🌱 Eu atualmente estou estudando React.js, TypeScript dentro do curso Ignite da Rocketseat 🚀
 
  <div>
